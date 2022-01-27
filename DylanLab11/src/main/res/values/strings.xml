@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DylanLab1</string>
+    <color name="lightBlue">#ADD8E6</color>
 </resources>
