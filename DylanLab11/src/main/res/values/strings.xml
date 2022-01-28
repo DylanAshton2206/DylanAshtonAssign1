@@ -1,4 +1,7 @@
+<!--Dylan Ashton n01442206 -->
 <resources>
     <string name="app_name">DylanLab1</string>
+    <string name="welcome_n_dylan_ashton_n01442206">Welcome! \n -Dylan Ashton n01442206</string>
     <color name="lightBlue">#ADD8E6</color>
+    <color name="lightYellow">#FFFF99</color>
 </resources>
