@@ -1,7 +1,12 @@
 <!--Dylan Ashton n01442206 -->
 <resources>
-    <string name="app_name">DylanLab1</string>
+    <string name="app_name">Dylan Ashton n01442206</string>
     <string name="welcome_n_dylan_ashton_n01442206">Welcome! \n -Dylan Ashton n01442206</string>
+    <string name="my_second_screen_n_dylan_ashton_n0142206">My second screen\n -Dylan Ashton n0142206</string>
+    <string name="button_1">button 1</string>
+    <string name="button_2">button 2</string>
+    <string name="type_here">type here…</string>
+    <string name="salim">Salim</string>
     <color name="lightBlue">#ADD8E6</color>
     <color name="lightYellow">#FFFF99</color>
 </resources>

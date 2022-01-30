@@ -12,8 +12,21 @@
         android:id="@+id/DylanTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:text="@string/my_second_screen_n_dylan_ashton_n0142206" />
+
+    <TextView
+        android:id="@+id/DylanTextView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="My second screen\n -Dylan Ashton n0142206" />
+        />
 
-
+    <ImageView
+        android:contentDescription="@string/salim"
+        android:layout_width="match_parent"
+        android:layout_height="218dp"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/pic_round" />
 </RelativeLayout>
