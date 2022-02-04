@@ -31,19 +31,21 @@
 
     <Button
         android:id="@+id/DylanButton1"
-        android:layout_width="wrap_content"
+        android:layout_width="281dp"
         android:layout_height="wrap_content"
-        android:layout_marginStart="150dp"
         android:layout_marginTop="200dp"
-        android:text="@string/button_1" />
+        android:layout_marginStart="70dp"
+        android:text="@string/button_1"
+        android:textSize="42dp" />
 
     <Button
         android:id="@+id/DylanButton2"
-        android:layout_width="wrap_content"
+        android:layout_width="281dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerInParent="true"
-        android:layout_marginStart="150dp"
-        android:layout_marginTop="250dp"
-        android:text="@string/button_2" />
+        android:layout_marginStart="70dp"
+        android:layout_marginTop="300dp"
+        android:text="@string/button_2"
+        android:textSize="42dp" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
